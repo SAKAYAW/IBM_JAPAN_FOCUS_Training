@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="EUC-JP" standalone="no"?>
+<!DOCTYPE focus-model [
+]>
+<!----><focus-model atcFilePath="" auxDataFilesFolder="" classifyAttributesEnabled="false" inputOutput="false" manual="true">
+<model-identification modelTag="@aaa @aaa @aaa">
+<model-identification-field name="Application Name" partOfTag="true" value="aaa"/>
+<model-identification-field name="Application code version #" partOfTag="true" value="aaa"/>
+<model-identification-field name="Application Function" partOfTag="true" value="aaa"/>
+<model-identification-field name="Updated Reason" partOfTag="false" value="New Model"/>
+<model-identification-field name="Created By" partOfTag="false" value="SAKAYAW@jp.ibm.com"/>
+<model-identification-field name="Created Date and Time" partOfTag="false" value="02 10 2017 01:53:05"/>
+<model-identification-field name="Updated By" partOfTag="false" value="SAKAYAW@jp.ibm.com"/>
+<model-identification-field name="Updated Date and Time" partOfTag="false" value="02 10 2017 01:53:05"/>
+<model-identification-field name="Application Sub Function" partOfTag="false" value=""/>
+<model-identification-field name="Test Stage" partOfTag="false" value=""/>
+<model-identification-field name="Criticality" partOfTag="false" value=""/>
+<model-identification-field name="Project" partOfTag="false" value=""/>
+<model-identification-field name="Epic" partOfTag="false" value=""/>
+<model-identification-field name="Feature" partOfTag="false" value=""/>
+<model-identification-field name="User Story" partOfTag="false" value=""/>
+</model-identification>
+<attribute attr_class="NONE" dependencies="false" description="" iotype="NEITHER" name="旅行期間" type="INT">
+<value name="1" weight="1"/>
+<value name="2" weight="1"/>
+<value name="3" weight="1"/>
+<value name="4" weight="1"/>
+<value name="5" weight="1"/>
+<value name="6" weight="1"/>
+<value name="7" weight="1"/>
+<value name="8" weight="1"/>
+<value name="9" weight="1"/>
+<value name="10" weight="1"/>
+<value name="11" weight="1"/>
+<value name="12" weight="1"/>
+<value name="13" weight="1"/>
+<value name="14" weight="1"/>
+<value name="15" weight="1"/>
+<value name="16" weight="1"/>
+<value name="17" weight="1"/>
+<value name="18" weight="1"/>
+<value name="19" weight="1"/>
+<value name="20" weight="1"/>
+<value name="21" weight="1"/>
+<value name="22" weight="1"/>
+<value name="23" weight="1"/>
+<value name="24" weight="1"/>
+<value name="25" weight="1"/>
+<value name="26" weight="1"/>
+<value name="27" weight="1"/>
+<value name="28" weight="1"/>
+<value name="29" weight="1"/>
+<value name="30" weight="1"/>
+<value name="31" weight="1"/>
+<value name="32" weight="1"/>
+<value name="33" weight="1"/>
+<value name="34" weight="1"/>
+<value name="35" weight="1"/>
+<value name="36" weight="1"/>
+<value name="37" weight="1"/>
+<value name="38" weight="1"/>
+<value name="39" weight="1"/>
+<value name="40" weight="1"/>
+<value name="41" weight="1"/>
+<value name="42" weight="1"/>
+<value name="43" weight="1"/>
+<value name="44" weight="1"/>
+<value name="45" weight="1"/>
+<value name="46" weight="1"/>
+<value name="47" weight="1"/>
+<value name="48" weight="1"/>
+<value name="49" weight="1"/>
+<value name="50" weight="1"/>
+<value name="51" weight="1"/>
+<value name="52" weight="1"/>
+<value name="53" weight="1"/>
+<value name="54" weight="1"/>
+<value name="55" weight="1"/>
+<value name="56" weight="1"/>
+<value name="57" weight="1"/>
+<value name="58" weight="1"/>
+<value name="59" weight="1"/>
+<value name="60" weight="1"/>
+<value name="61" weight="1"/>
+<value name="62" weight="1"/>
+<value name="63" weight="1"/>
+<value name="64" weight="1"/>
+<value name="65" weight="1"/>
+<value name="66" weight="1"/>
+<value name="67" weight="1"/>
+<value name="68" weight="1"/>
+<value name="69" weight="1"/>
+<value name="70" weight="1"/>
+<value name="71" weight="1"/>
+<value name="72" weight="1"/>
+<value name="73" weight="1"/>
+<value name="74" weight="1"/>
+<value name="75" weight="1"/>
+<value name="76" weight="1"/>
+<value name="77" weight="1"/>
+<value name="78" weight="1"/>
+<value name="79" weight="1"/>
+<value name="80" weight="1"/>
+<value name="81" weight="1"/>
+<value name="82" weight="1"/>
+<value name="83" weight="1"/>
+<value name="84" weight="1"/>
+<value name="85" weight="1"/>
+<value name="86" weight="1"/>
+<value name="87" weight="1"/>
+<value name="88" weight="1"/>
+<value name="89" weight="1"/>
+<value name="90" weight="1"/>
+<value name="91" weight="1"/>
+<value name="92" weight="1"/>
+</attribute>
+<attribute attr_class="NONE" dependencies="false" description="" iotype="NEITHER" name="行き先の国＿地域" type="STRING">
+<value name="選択してください" weight="1"/>
+<value name="韓国" weight="1"/>
+<value name="台湾" weight="1"/>
+<value name="香港" weight="1"/>
+<value name="中国" weight="1"/>
+<value name="シンガポール" weight="1"/>
+<value name="タイ" weight="1"/>
+<value name="フィリピン" weight="1"/>
+<value name="インドネシア" weight="1"/>
+<value name="トルコ" weight="1"/>
+<value name="その他のアジア地域（日本を除く）" weight="1"/>
+<value name="ハワイ" weight="1"/>
+<value name="グアム・サイパン" weight="1"/>
+<value name="アメリカ合衆国" weight="1"/>
+<value name="カナダ" weight="1"/>
+<value name="イタリア" weight="1"/>
+<value name="フランス" weight="1"/>
+<value name="イギリス" weight="1"/>
+<value name="ドイツ" weight="1"/>
+<value name="オーストラリア" weight="1"/>
+<value name="その他の北米・ヨーロッパ・オセアニア地域" weight="1"/>
+<value name="エジプト" weight="1"/>
+<value name="その他アフリカ地域" weight="1"/>
+<value name="メキシコ" weight="1"/>
+<value name="ブラジル" weight="1"/>
+<value name="その他中南米地域" weight="1"/>
+</attribute>
+<attribute attr_class="NONE" dependencies="false" description="" iotype="NEITHER" name="プラン内容" type="STRING">
+<value name="個人プラン【お一人の場合】" weight="1"/>
+<value name="ファミリープラン" weight="1"/>
+<value name="カップルプラン【ご家族２名】" weight="1"/>
+</attribute>
+<attribute attr_class="NONE" dependencies="false" description="" iotype="NEITHER" name="ファミリープラン＿人数" type="STRING">
+<value name="2" weight="1"/>
+<value name="3" weight="1"/>
+<value name="4" weight="1"/>
+<value name="5" weight="1"/>
+<value name="6" weight="1"/>
+<value name="7" weight="1"/>
+</attribute>
+<attribute attr_class="NONE" dependencies="false" description="" iotype="NEITHER" name="治療費用" type="STRING">
+<value name="500万円［780円］" weight="1"/>
+<value name="700万円［780円］" weight="1"/>
+<value name="1000万円［780円］" weight="1"/>
+<value name="1500万円［780円］" weight="1"/>
+<value name="2000万円［780円］" weight="1"/>
+<value name="表示されないため選択なし" weight="1"/>
+<value name="なし" weight="1"/>
+</attribute>
+<attribute attr_class="NONE" dependencies="false" description="" iotype="NEITHER" name="傷害死亡＿後遺障害" type="STRING">
+<value name="500万円［60円］" weight="1"/>
+<value name="1000万円［120円］" weight="1"/>
+<value name="2000万円［240円］" weight="1"/>
+<value name="3000万円［360円］" weight="1"/>
+<value name="5000万円［600円］" weight="1"/>
+<value name="表示されないため選択なし" weight="1"/>
+<value name="なし" weight="1"/>
+</attribute>
+<attribute attr_class="NONE" dependencies="false" description="" iotype="NEITHER" name="疾病死亡" type="STRING">
+<value name="500万円［90円］" weight="1"/>
+<value name="1000万円［180円］" weight="1"/>
+<value name="2000万円［360円］" weight="1"/>
+<value name="3000万円［540円］" weight="1"/>
+<value name="表示されないため選択なし" weight="1"/>
+<value name="なし" weight="1"/>
+</attribute>
+<attribute attr_class="NONE" dependencies="false" description="" iotype="NEITHER" name="賠償責任" type="STRING">
+<value name="3000万円［10円］" weight="1"/>
+<value name="5000万円［10円］" weight="1"/>
+<value name="1億［10円］" weight="1"/>
+<value name="表示されないため選択なし" weight="1"/>
+<value name="なし" weight="1"/>
+</attribute>
+<attribute attr_class="NONE" dependencies="false" description="" iotype="NEITHER" name="携帯品損害" type="STRING">
+<value name="20万円［90円］" weight="1"/>
+<value name="30万円［100円］" weight="1"/>
+<value name="50万円［150円］" weight="1"/>
+<value name="70万円［210円］" weight="1"/>
+<value name="100万円［300円］" weight="1"/>
+<value name="表示されないため選択なし" weight="1"/>
+<value name="なし" weight="1"/>
+</attribute>
+<attribute attr_class="NONE" dependencies="false" description="" iotype="NEITHER" name="救援者費用" type="STRING">
+<value name="500万円［20円］" weight="1"/>
+<value name="1000万円［20円］" weight="1"/>
+<value name="1500万円［20円］" weight="1"/>
+<value name="2000万円［20円］" weight="1"/>
+<value name="700万円［20円］" weight="1"/>
+<value name="表示されないため選択なし" weight="1"/>
+<value name="なし" weight="1"/>
+</attribute>
+<attribute attr_class="NONE" dependencies="false" description="" iotype="NEITHER" name="航空機寄託＿手荷物遅延＿等費用" type="STRING">
+<value name="10万円［80円］" weight="1"/>
+<value name="なし" weight="1"/>
+<value name="表示されないため選択なし" weight="1"/>
+</attribute>
+<attribute attr_class="NONE" dependencies="false" description="" iotype="NEITHER" name="オプション＿PAタイプ" type="BOOLEAN">
+<value name="true" weight="1"/>
+<value name="false" weight="1"/>
+</attribute>
+<attribute attr_class="NONE" dependencies="false" description="" iotype="NEITHER" name="オプション＿PBタイプ" type="BOOLEAN">
+<value name="true" weight="1"/>
+<value name="false" weight="1"/>
+</attribute>
+<attribute attr_class="NONE" dependencies="false" description="" iotype="NEITHER" name="オプション＿PCタイプ" type="BOOLEAN">
+<value name="true" weight="1"/>
+<value name="false" weight="1"/>
+</attribute>
+<restriction expression="!(プラン内容.equals(&quot;個人プラン【お一人の場合】&quot;)) || !治療費用.equals(&quot;表示されないため選択なし&quot;) &amp;&amp; !傷害死亡＿後遺障害.equals(&quot;表示されないため選択なし&quot;) &amp;&amp; !疾病死亡.equals(&quot;表示されないため選択なし&quot;) &amp;&amp; !賠償責任.equals(&quot;表示されないため選択なし&quot;) &amp;&amp; !携帯品損害.equals(&quot;表示されないため選択なし&quot;) &amp;&amp; !救援者費用.equals(&quot;表示されないため選択なし&quot;) &amp;&amp; !航空機寄託＿手荷物遅延＿等費用.equals(&quot;表示されないため選択なし&quot;)" iff="false" isActive="true" isAutoGenerated="false" name="" type="If-Then">
+<if-expr is_or="false">
+<focus-ctd-cond attribute="プラン内容" operation="Equals">
+<focus-ctd-cond-val value="個人プラン【お一人の場合】"/>
+</focus-ctd-cond>
+</if-expr>
+<then-expr is_or="false">
+<focus-ctd-cond attribute="治療費用" operation="Doesn't Equal">
+<focus-ctd-cond-val value="表示されないため選択なし"/>
+</focus-ctd-cond>
+<focus-ctd-cond attribute="傷害死亡＿後遺障害" operation="Doesn't Equal">
+<focus-ctd-cond-val value="表示されないため選択なし"/>
+</focus-ctd-cond>
+<focus-ctd-cond attribute="疾病死亡" operation="Doesn't Equal">
+<focus-ctd-cond-val value="表示されないため選択なし"/>
+</focus-ctd-cond>
+<focus-ctd-cond attribute="賠償責任" operation="Doesn't Equal">
+<focus-ctd-cond-val value="表示されないため選択なし"/>
+</focus-ctd-cond>
+<focus-ctd-cond attribute="携帯品損害" operation="Doesn't Equal">
+<focus-ctd-cond-val value="表示されないため選択なし"/>
+</focus-ctd-cond>
+<focus-ctd-cond attribute="救援者費用" operation="Doesn't Equal">
+<focus-ctd-cond-val value="表示されないため選択なし"/>
+</focus-ctd-cond>
+<focus-ctd-cond attribute="航空機寄託＿手荷物遅延＿等費用" operation="Doesn't Equal">
+<focus-ctd-cond-val value="表示されないため選択なし"/>
+</focus-ctd-cond>
+</then-expr>
+</restriction>
+<restriction expression="!(プラン内容.equals(&quot;ファミリープラン&quot;) || プラン内容.equals(&quot;カップルプラン【ご家族２名】&quot;)) || (!治療費用.equals(&quot;500万円［780円］&quot;) &amp;&amp; !治療費用.equals(&quot;700万円［780円］&quot;) &amp;&amp; !治療費用.equals(&quot;1000万円［780円］&quot;) &amp;&amp; !治療費用.equals(&quot;1500万円［780円］&quot;) &amp;&amp; !治療費用.equals(&quot;2000万円［780円］&quot;) &amp;&amp; !治療費用.equals(&quot;なし&quot;)) &amp;&amp; (!傷害死亡＿後遺障害.equals(&quot;500万円［60円］&quot;) &amp;&amp; !傷害死亡＿後遺障害.equals(&quot;1000万円［120円］&quot;) &amp;&amp; !傷害死亡＿後遺障害.equals(&quot;2000万円［240円］&quot;) &amp;&amp; !傷害死亡＿後遺障害.equals(&quot;3000万円［360円］&quot;) &amp;&amp; !傷害死亡＿後遺障害.equals(&quot;5000万円［600円］&quot;) &amp;&amp; !傷害死亡＿後遺障害.equals(&quot;なし&quot;)) &amp;&amp; (!疾病死亡.equals(&quot;500万円［90円］&quot;) &amp;&amp; !疾病死亡.equals(&quot;1000万円［180円］&quot;) &amp;&amp; !疾病死亡.equals(&quot;2000万円［360円］&quot;) &amp;&amp; !疾病死亡.equals(&quot;3000万円［540円］&quot;) &amp;&amp; !疾病死亡.equals(&quot;なし&quot;)) &amp;&amp; (!賠償責任.equals(&quot;3000万円［10円］&quot;) &amp;&amp; !賠償責任.equals(&quot;5000万円［10円］&quot;) &amp;&amp; !賠償責任.equals(&quot;1億［10円］&quot;) &amp;&amp; !賠償責任.equals(&quot;なし&quot;)) &amp;&amp; (!携帯品損害.equals(&quot;20万円［90円］&quot;) &amp;&amp; !携帯品損害.equals(&quot;30万円［100円］&quot;) &amp;&amp; !携帯品損害.equals(&quot;50万円［150円］&quot;) &amp;&amp; !携帯品損害.equals(&quot;70万円［210円］&quot;) &amp;&amp; !携帯品損害.equals(&quot;100万円［300円］&quot;) &amp;&amp; !携帯品損害.equals(&quot;なし&quot;)) &amp;&amp; (!救援者費用.equals(&quot;500万円［20円］&quot;) &amp;&amp; !救援者費用.equals(&quot;1000万円［20円］&quot;) &amp;&amp; !救援者費用.equals(&quot;1500万円［20円］&quot;) &amp;&amp; !救援者費用.equals(&quot;2000万円［20円］&quot;) &amp;&amp; !救援者費用.equals(&quot;700万円［20円］&quot;) &amp;&amp; !救援者費用.equals(&quot;なし&quot;)) &amp;&amp; (!航空機寄託＿手荷物遅延＿等費用.equals(&quot;10万円［80円］&quot;) &amp;&amp; !航空機寄託＿手荷物遅延＿等費用.equals(&quot;なし&quot;))" iff="false" isActive="true" isAutoGenerated="false" name="" type="If-Then">
+<if-expr is_or="true">
+<focus-ctd-cond attribute="プラン内容" operation="Equals">
+<focus-ctd-cond-val value="ファミリープラン"/>
+</focus-ctd-cond>
+<focus-ctd-cond attribute="プラン内容" operation="Equals">
+<focus-ctd-cond-val value="カップルプラン【ご家族２名】"/>
+</focus-ctd-cond>
+</if-expr>
+<then-expr is_or="false">
+<focus-ctd-cond attribute="治療費用" operation="Doesn't Equal">
+<focus-ctd-cond-val value="500万円［780円］"/>
+<focus-ctd-cond-val value="700万円［780円］"/>
+<focus-ctd-cond-val value="1000万円［780円］"/>
+<focus-ctd-cond-val value="1500万円［780円］"/>
+<focus-ctd-cond-val value="2000万円［780円］"/>
+<focus-ctd-cond-val value="なし"/>
+</focus-ctd-cond>
+<focus-ctd-cond attribute="傷害死亡＿後遺障害" operation="Doesn't Equal">
+<focus-ctd-cond-val value="500万円［60円］"/>
+<focus-ctd-cond-val value="1000万円［120円］"/>
+<focus-ctd-cond-val value="2000万円［240円］"/>
+<focus-ctd-cond-val value="3000万円［360円］"/>
+<focus-ctd-cond-val value="5000万円［600円］"/>
+<focus-ctd-cond-val value="なし"/>
+</focus-ctd-cond>
+<focus-ctd-cond attribute="疾病死亡" operation="Doesn't Equal">
+<focus-ctd-cond-val value="500万円［90円］"/>
+<focus-ctd-cond-val value="1000万円［180円］"/>
+<focus-ctd-cond-val value="2000万円［360円］"/>
+<focus-ctd-cond-val value="3000万円［540円］"/>
+<focus-ctd-cond-val value="なし"/>
+</focus-ctd-cond>
+<focus-ctd-cond attribute="賠償責任" operation="Doesn't Equal">
+<focus-ctd-cond-val value="3000万円［10円］"/>
+<focus-ctd-cond-val value="5000万円［10円］"/>
+<focus-ctd-cond-val value="1億［10円］"/>
+<focus-ctd-cond-val value="なし"/>
+</focus-ctd-cond>
+<focus-ctd-cond attribute="携帯品損害" operation="Doesn't Equal">
+<focus-ctd-cond-val value="20万円［90円］"/>
+<focus-ctd-cond-val value="30万円［100円］"/>
+<focus-ctd-cond-val value="50万円［150円］"/>
+<focus-ctd-cond-val value="70万円［210円］"/>
+<focus-ctd-cond-val value="100万円［300円］"/>
+<focus-ctd-cond-val value="なし"/>
+</focus-ctd-cond>
+<focus-ctd-cond attribute="救援者費用" operation="Doesn't Equal">
+<focus-ctd-cond-val value="500万円［20円］"/>
+<focus-ctd-cond-val value="1000万円［20円］"/>
+<focus-ctd-cond-val value="1500万円［20円］"/>
+<focus-ctd-cond-val value="2000万円［20円］"/>
+<focus-ctd-cond-val value="700万円［20円］"/>
+<focus-ctd-cond-val value="なし"/>
+</focus-ctd-cond>
+<focus-ctd-cond attribute="航空機寄託＿手荷物遅延＿等費用" operation="Doesn't Equal">
+<focus-ctd-cond-val value="10万円［80円］"/>
+<focus-ctd-cond-val value="なし"/>
+</focus-ctd-cond>
+</then-expr>
+</restriction>
+<coverage-reqs-sets defaultCoverageRequirementsSet="２因子">
+<coverage-reqs-set description="" name="２因子">
+<coverage-req>
+<attribute name="プラン内容"/>
+<attribute name="ファミリープラン＿人数"/>
+<coverage-goal coverage-goal-val="1"/>
+</coverage-req>
+<coverage-req>
+<attribute name="旅行期間"/>
+<attribute name="行き先の国＿地域"/>
+<attribute name="プラン内容"/>
+<attribute name="ファミリープラン＿人数"/>
+<attribute name="治療費用"/>
+<attribute name="傷害死亡＿後遺障害"/>
+<attribute name="疾病死亡"/>
+<attribute name="賠償責任"/>
+<attribute name="携帯品損害"/>
+<attribute name="救援者費用"/>
+<attribute name="航空機寄託＿手荷物遅延＿等費用"/>
+<coverage-goal coverage-goal-val="2"/>
+</coverage-req>
+</coverage-reqs-set>
+</coverage-reqs-sets>
+<neg-coverage-reqs-sets defaultCoverageRequirementsSet="SingleNegativeCoverageRequirementsSet" isAutoNegCoverageRequirements="true">
+<coverage-reqs-set description="" name="SingleNegativeCoverageRequirementsSet"/>
+</neg-coverage-reqs-sets>
+<focus-ctd-decoration decorationType="freeStyle"/>
+<focus-ctd-model-sync>
+<focus-ctd-model-sync-mult/>
+<focus-ctd-model-sync-na/>
+</focus-ctd-model-sync>
+</focus-model>
